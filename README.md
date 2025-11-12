@@ -19,4 +19,4 @@ alternatively:
 
 
 
-<img width="1692" height="748" alt="image" src="https://github.com/user-attachments/assets/587e03eb-1201-46e7-abef-259d0a062548" />
+<img width="500" height="221" alt="image" src="https://github.com/user-attachments/assets/587e03eb-1201-46e7-abef-259d0a062548" />
