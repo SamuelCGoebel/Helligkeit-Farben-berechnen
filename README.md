@@ -12,6 +12,7 @@ Bonus: Name the brightest color ('https://www.csscolorsapi.com/')
 list = ["#AABBCC", "#154331", "#A0B1C2", "#000000", "#FFFFFF"]
 
 ### Output to the example input: 
-"The brightest color is: #FFFFFF (r=255, g=255, b=255)"
+"The brightest color is: #FFFFFF (r=255, g=255, b=255)".
+
 alternatively: 
-"The brightest color is: #FFFFFF (r=255, g=255, b=255), called White"
+"The brightest color is: #FFFFFF (r=255, g=255, b=255), called White".
