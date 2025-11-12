@@ -16,3 +16,7 @@ list = ["#AABBCC", "#154331", "#A0B1C2", "#000000", "#FFFFFF"]
 
 alternatively: 
 "The brightest color is: #FFFFFF (r=255, g=255, b=255), called White".
+
+
+
+<img width="1692" height="748" alt="image" src="https://github.com/user-attachments/assets/587e03eb-1201-46e7-abef-259d0a062548" />
