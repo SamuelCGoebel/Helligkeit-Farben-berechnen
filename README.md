@@ -1,6 +1,7 @@
 # Helligkeit-Farben-berechnen
 
 Ein Script zur Bestimmung der hellsten Farbe aus einer Liste von Hexadezimal-Farbwerten.
+'Helligkeit_Farben_Goebel_v2.py'
 
 ## 📋 Beschreibung
 
